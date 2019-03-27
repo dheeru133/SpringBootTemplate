@@ -1,0 +1,6 @@
+com\example\model\Person.class
+com\example\config\SwaggerConfig.class
+com\example\controller\MVCController.class
+com\example\service\PersonService.class
+com\example\controller\RestControllerExample.class
+com\example\SpringBootTemplateApplication.class
